@@ -27,17 +27,18 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hofflohmarkt-untergiesing-2026@jannik-events
-DTSTAMP:20261004T190000Z
-DTSTART;TZID=Europe/Berlin:20261010T100000
-DTEND;TZID=Europe/Berlin:20261010T160000
+DTSTAMP:20261004T191500Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
 SUMMARY:Hofflohmarkt Untergiesing
 LOCATION:Untergiesing, München
-DESCRIPTION:Kostenlos. Letzte Hofflohmärkte der Saison 2026.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/m-net-hofflohmaerkte-2026
+DESCRIPTION:Uhrzeit: 10–16 Uhr. Kostenlos. Letzte Hofflohmärkte der Saison 2026.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/m-net-hofflohmaerkte-2026
 URL:https://www.muenchen.de/veranstaltungen/freizeit/m-net-hofflohmaerkte-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:kunst-in-sendling-2026@jannik-events
-DTSTAMP:20261004T190000Z
+DTSTAMP:20261004T191500Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261013
 TRANSP:TRANSPARENT
@@ -48,28 +49,30 @@ URL:https://www.muenchen.de/veranstaltungen/freizeit/kunst-sendling
 END:VEVENT
 BEGIN:VEVENT
 UID:meine-erste-uniparty-2026@jannik-events
-DTSTAMP:20261004T190000Z
-DTSTART;TZID=Europe/Berlin:20261015T200000
-DTEND;TZID=Europe/Berlin:20261016T040000
+DTSTAMP:20261004T191500Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
 STATUS:TENTATIVE
+TRANSP:TRANSPARENT
 SUMMARY:⚠️ NICHT FINAL – Meine erste Uniparty (Datum unbestätigt)
 LOCATION:TUM Stammgelände, Arcisstraße 21, 80333 München
-DESCRIPTION:Semesterauftaktparty in der ersten Vorlesungswoche. Datum 2026 noch nicht offiziell – Platzhalter, wird aktualisiert.\nQuelle: https://sv.tum.de/en/sv/what-we-do/events/semester-opening-party/
+DESCRIPTION:Uhrzeit: ca. 20–4 Uhr. Semesterauftaktparty in der ersten Vorlesungswoche. Datum 2026 noch nicht offiziell – Platzhalter, wird aktualisiert.\nQuelle: https://sv.tum.de/en/sv/what-we-do/events/semester-opening-party/
 URL:https://sv.tum.de/en/sv/what-we-do/events/semester-opening-party/
 END:VEVENT
 BEGIN:VEVENT
 UID:lange-nacht-museen-2026@jannik-events
-DTSTAMP:20261004T190000Z
-DTSTART;TZID=Europe/Berlin:20261017T180000
-DTEND;TZID=Europe/Berlin:20261018T010000
+DTSTAMP:20261004T191500Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+TRANSP:TRANSPARENT
 SUMMARY:Lange Nacht der Münchner Museen
 LOCATION:Zentrum Odeonsplatz + ca. 100 Orte in München
-DESCRIPTION:20 € (keine Studi-Ermäßigung), Ticket gilt auch für Shuttlebusse. Architekturmuseum der TUM ist dabei.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nacht-der-muenchner-museen
+DESCRIPTION:Uhrzeit: 18–1 Uhr. 20 € (keine Studi-Ermäßigung), Ticket gilt auch für Shuttlebusse. Architekturmuseum der TUM ist dabei.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nacht-der-muenchner-museen
 URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nacht-der-muenchner-museen
 END:VEVENT
 BEGIN:VEVENT
 UID:tollwood-winter-2026@jannik-events
-DTSTAMP:20261004T190000Z
+DTSTAMP:20261004T191500Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261224
 TRANSP:TRANSPARENT
@@ -80,9 +83,10 @@ URL:https://www.muenchen.de/veranstaltungen/tollwood-winterfestival-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:southside-2027@jannik-events
-DTSTAMP:20261004T190000Z
+DTSTAMP:20261004T191500Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
+TRANSP:TRANSPARENT
 SUMMARY:Southside Festival 2027
 LOCATION:Flugplatz, 78579 Neuhausen ob Eck
 DESCRIPTION:Jahres-Fixpunkt. Phase-2-Ticket ca. 189 €. Erste Acts u. a. Paula Hartmann, Giant Rooks, Feine Sahne Fischfilet, Ikkimel, Muse.\nQuelle: https://www.southside.de
@@ -90,19 +94,21 @@ URL:https://www.southside.de
 END:VEVENT
 BEGIN:VEVENT
 UID:oben-ohne-2027@jannik-events
-DTSTAMP:20261004T190000Z
-DTSTART;TZID=Europe/Berlin:20270724T130000
-DTEND;TZID=Europe/Berlin:20270724T220000
+DTSTAMP:20261004T191500Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+TRANSP:TRANSPARENT
 SUMMARY:Oben Ohne Open Air 2027
 LOCATION:Königsplatz, 80333 München
-DESCRIPTION:Jahres-Fixpunkt. Line-up und Vorverkauf noch nicht veröffentlicht.\nQuelle: https://www.muenchen.de/veranstaltungen/feste-festivals/konzerte/oben-ohne-open-air
+DESCRIPTION:Uhrzeit: 13–22 Uhr. Jahres-Fixpunkt. Line-up und Vorverkauf noch nicht veröffentlicht.\nQuelle: https://www.muenchen.de/veranstaltungen/feste-festivals/konzerte/oben-ohne-open-air
 URL:https://www.muenchen.de/veranstaltungen/feste-festivals/konzerte/oben-ohne-open-air
 END:VEVENT
 BEGIN:VEVENT
 UID:01099-heimspiel-dresden-2027@jannik-events
-DTSTAMP:20261004T190500Z
+DTSTAMP:20261004T191500Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
+TRANSP:TRANSPARENT
 SUMMARY:01099 – HEIMSPIEL Dresden
 LOCATION:Rudolf-Harbig-Stadion, Dresden
 DESCRIPTION:Einziges 01099-Konzert 2027, Stadionshow in Dresden. Uhrzeit noch nicht bekannt. Tickets/Anreise rechtzeitig planen.\nQuelle: https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dresden.php
@@ -110,7 +116,7 @@ URL:https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dre
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesn-2027@jannik-events
-DTSTAMP:20261004T190000Z
+DTSTAMP:20261004T191500Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20271004
 TRANSP:TRANSPARENT
