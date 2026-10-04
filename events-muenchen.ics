@@ -27,7 +27,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hofflohmarkt-untergiesing-2026@jannik-events
-DTSTAMP:20261004T191500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 TRANSP:TRANSPARENT
@@ -38,7 +38,7 @@ URL:https://www.muenchen.de/veranstaltungen/freizeit/m-net-hofflohmaerkte-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:kunst-in-sendling-2026@jannik-events
-DTSTAMP:20261004T191500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261013
 TRANSP:TRANSPARENT
@@ -49,7 +49,7 @@ URL:https://www.muenchen.de/veranstaltungen/freizeit/kunst-sendling
 END:VEVENT
 BEGIN:VEVENT
 UID:meine-erste-uniparty-2026@jannik-events
-DTSTAMP:20261004T191500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 STATUS:TENTATIVE
@@ -61,7 +61,7 @@ URL:https://sv.tum.de/en/sv/what-we-do/events/semester-opening-party/
 END:VEVENT
 BEGIN:VEVENT
 UID:lange-nacht-museen-2026@jannik-events
-DTSTAMP:20261004T191500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 TRANSP:TRANSPARENT
@@ -72,7 +72,7 @@ URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nac
 END:VEVENT
 BEGIN:VEVENT
 UID:tollwood-winter-2026@jannik-events
-DTSTAMP:20261004T202500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261219
@@ -84,7 +84,7 @@ URL:https://www.muenchen.de/veranstaltungen/tollwood-winterfestival-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:southside-2027@jannik-events
-DTSTAMP:20261004T191500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 TRANSP:TRANSPARENT
@@ -95,7 +95,7 @@ URL:https://www.southside.de
 END:VEVENT
 BEGIN:VEVENT
 UID:oben-ohne-2027@jannik-events
-DTSTAMP:20261004T191500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
 TRANSP:TRANSPARENT
@@ -106,7 +106,7 @@ URL:https://www.muenchen.de/veranstaltungen/feste-festivals/konzerte/oben-ohne-o
 END:VEVENT
 BEGIN:VEVENT
 UID:01099-heimspiel-dresden-2027@jannik-events
-DTSTAMP:20261004T191500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
 TRANSP:TRANSPARENT
@@ -117,7 +117,7 @@ URL:https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dre
 END:VEVENT
 BEGIN:VEVENT
 UID:wiesn-2027@jannik-events
-DTSTAMP:20261004T202500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20271002
@@ -128,7 +128,7 @@ DESCRIPTION:Läuft 18.09.2027–03.10.2027; im Kalender nur einmal pro Wochenend
 END:VEVENT
 BEGIN:VEVENT
 UID:krims-krams-bahnwaerter-2026-10@jannik-events
-DTSTAMP:20261004T193000Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 TRANSP:TRANSPARENT
@@ -139,7 +139,7 @@ URL:https://www.in-muenchen.de/events/krims-krams.html
 END:VEVENT
 BEGIN:VEVENT
 UID:comedy-entgleist-2026-10@jannik-events
-DTSTAMP:20261004T193000Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 TRANSP:TRANSPARENT
@@ -150,7 +150,7 @@ URL:https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
 END:VEVENT
 BEGIN:VEVENT
 UID:comedy-entgleist-2026-11@jannik-events
-DTSTAMP:20261004T193000Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -161,7 +161,7 @@ URL:https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
 END:VEVENT
 BEGIN:VEVENT
 UID:comedy-entgleist-2026-12@jannik-events
-DTSTAMP:20261004T193000Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 TRANSP:TRANSPARENT
@@ -172,7 +172,7 @@ URL:https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
 END:VEVENT
 BEGIN:VEVENT
 UID:fcb-arsenal-cl-2026@jannik-events
-DTSTAMP:20261004T193000Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 TRANSP:TRANSPARENT
@@ -183,31 +183,53 @@ URL:https://fcbayern.com/de/news/2026/08/spiele-des-fc-bayern-in-der-champions-l
 END:VEVENT
 BEGIN:VEVENT
 UID:som-art-architekturgalerie-2026@jannik-events
-DTSTAMP:20261004T202500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261114
+RRULE:FREQ=WEEKLY;BYDAY=SA;COUNT=2
 TRANSP:TRANSPARENT
 SUMMARY:Ausstellung „SOM+Art“ – Architekturgalerie München
 LOCATION:Architekturgalerie München, Türkenstr. 30, 80333 München
-DESCRIPTION:Läuft 30.09.2026–15.11.2026; im Kalender nur einmal pro Wochenende (samstags) eingetragen. Läuft bis 15.11. Öffnungszeiten Mo–Fr 9–19, Sa 9–18 Uhr. Kunst, Architektur und Ingenieurbau. Eintritt vermutlich frei (nicht bestätigt). Nah an Theologicum/Philologicum.\nQuelle: https://www.architecture-exhibitions.com/en/exhibitions?city=17
+DESCRIPTION:Läuft 30.09.2026–15.11.2026; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Läuft bis 15.11. Öffnungszeiten Mo–Fr 9–19, Sa 9–18 Uhr. Kunst, Architektur und Ingenieurbau. Eintritt vermutlich frei (nicht bestätigt). Nah an Theologicum/Philologicum.\nQuelle: https://www.architecture-exhibitions.com/en/exhibitions?city=17
+URL:https://www.architecture-exhibitions.com/en/exhibitions?city=17
+END:VEVENT
+BEGIN:VEVENT
+UID:som-art-architekturgalerie-2026-letzte-chance@jannik-events
+DTSTAMP:20261004T202800Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:⏳ LETZTE CHANCE – Ausstellung „SOM+Art“ – Architekturgalerie München
+LOCATION:Architekturgalerie München, Türkenstr. 30, 80333 München
+DESCRIPTION:Läuft 30.09.2026–15.11.2026; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Läuft bis 15.11. Öffnungszeiten Mo–Fr 9–19, Sa 9–18 Uhr. Kunst, Architektur und Ingenieurbau. Eintritt vermutlich frei (nicht bestätigt). Nah an Theologicum/Philologicum.\nQuelle: https://www.architecture-exhibitions.com/en/exhibitions?city=17
 URL:https://www.architecture-exhibitions.com/en/exhibitions?city=17
 END:VEVENT
 BEGIN:VEVENT
 UID:mondscheinexpress-2026@jannik-events
-DTSTAMP:20261004T202500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261219
+RRULE:FREQ=WEEKLY;BYDAY=SA;COUNT=2
 TRANSP:TRANSPARENT
 SUMMARY:⚠️ NICHT FINAL – Mondscheinexpress Winterfestival @ Bahnwärter Thiel
 LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
-DESCRIPTION:Läuft 20.11.2026–23.12.2026; im Kalender nur einmal pro Wochenende (samstags) eingetragen. Termin 2026 noch nicht veröffentlicht – Platzhalter nach 2025 (20.11.–23.12.). Eintritt frei. Offene Ateliers, Markt, Foodtrucks, DJs/Bands. 2025: Mo–Fr 17–22, Sa/So 13–22 Uhr.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
+DESCRIPTION:Läuft 20.11.2026–23.12.2026; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Termin 2026 noch nicht veröffentlicht – Platzhalter nach 2025 (20.11.–23.12.). Eintritt frei. Offene Ateliers, Markt, Foodtrucks, DJs/Bands. 2025: Mo–Fr 17–22, Sa/So 13–22 Uhr.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
+URL:https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
+END:VEVENT
+BEGIN:VEVENT
+UID:mondscheinexpress-2026-letzte-chance@jannik-events
+DTSTAMP:20261004T202800Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – ⏳ LETZTE CHANCE – Mondscheinexpress Winterfestival @ Bahnwärter Thiel
+LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
+DESCRIPTION:Läuft 20.11.2026–23.12.2026; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Termin 2026 noch nicht veröffentlicht – Platzhalter nach 2025 (20.11.–23.12.). Eintritt frei. Offene Ateliers, Markt, Foodtrucks, DJs/Bands. 2025: Mo–Fr 17–22, Sa/So 13–22 Uhr.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
 URL:https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
 END:VEVENT
 BEGIN:VEVENT
 UID:koletzki-bahnwaerter-2026-10@jannik-events
-DTSTAMP:20261004T194500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 TRANSP:TRANSPARENT
@@ -218,19 +240,30 @@ URL:https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
 END:VEVENT
 BEGIN:VEVENT
 UID:barcelona-moderna-kunsthalle-2026@jannik-events
-DTSTAMP:20261004T202500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20270220
+RRULE:FREQ=WEEKLY;BYDAY=SA;COUNT=2
 TRANSP:TRANSPARENT
 SUMMARY:❔ EVENTUELL – Barcelona moderna (Kunsthalle)
 LOCATION:Kunsthalle München, Theatinerstraße 8, 80333 München
-DESCRIPTION:Läuft 23.10.2026–21.02.2027; im Kalender nur einmal pro Wochenende (samstags) eingetragen. Läuft 23.10.2026–21.02.2027. Von Gaudí bis Picasso: ca. 140 Gemälde, Grafiken, Möbel und Architekturmodelle. Preis noch prüfen.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna
+DESCRIPTION:Läuft 23.10.2026–21.02.2027; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Läuft 23.10.2026–21.02.2027. Von Gaudí bis Picasso: ca. 140 Gemälde, Grafiken, Möbel und Architekturmodelle. Preis noch prüfen.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna
+URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-moderna-kunsthalle-2026-letzte-chance@jannik-events
+DTSTAMP:20261004T202800Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+TRANSP:TRANSPARENT
+SUMMARY:❔ EVENTUELL – ⏳ LETZTE CHANCE – Barcelona moderna (Kunsthalle)
+LOCATION:Kunsthalle München, Theatinerstraße 8, 80333 München
+DESCRIPTION:Läuft 23.10.2026–21.02.2027; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Läuft 23.10.2026–21.02.2027. Von Gaudí bis Picasso: ca. 140 Gemälde, Grafiken, Möbel und Architekturmodelle. Preis noch prüfen.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna
 URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna
 END:VEVENT
 BEGIN:VEVENT
 UID:fcb-bvb-klassiker-2026@jannik-events
-DTSTAMP:20261004T194500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
@@ -241,19 +274,30 @@ URL:https://anstosszeiten.de/bundesliga/spieltag-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:saraceno-hausderkunst-2026@jannik-events
-DTSTAMP:20261004T202500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20270206
+RRULE:FREQ=WEEKLY;BYDAY=SA;COUNT=2
 TRANSP:TRANSPARENT
 SUMMARY:Tomás Saraceno – Ancestral Futures (Haus der Kunst)
 LOCATION:Haus der Kunst, Prinzregentenstraße 1, 80538 München
-DESCRIPTION:Läuft 04.10.2026–07.02.2027; im Kalender nur einmal pro Wochenende (samstags) eingetragen. Läuft bis 07.02.2027. Kunst, Architektur und Wissenschaft – begehbare Luftskulpturen. Im selben Haus: Eisbach Treasures. Preis noch prüfen.\nQuelle: https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte
+DESCRIPTION:Läuft 04.10.2026–07.02.2027; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Läuft bis 07.02.2027. Kunst, Architektur und Wissenschaft – begehbare Luftskulpturen. Im selben Haus: Eisbach Treasures. Preis noch prüfen.\nQuelle: https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte
+URL:https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte
+END:VEVENT
+BEGIN:VEVENT
+UID:saraceno-hausderkunst-2026-letzte-chance@jannik-events
+DTSTAMP:20261004T202800Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+TRANSP:TRANSPARENT
+SUMMARY:⏳ LETZTE CHANCE – Tomás Saraceno – Ancestral Futures (Haus der Kunst)
+LOCATION:Haus der Kunst, Prinzregentenstraße 1, 80538 München
+DESCRIPTION:Läuft 04.10.2026–07.02.2027; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Läuft bis 07.02.2027. Kunst, Architektur und Wissenschaft – begehbare Luftskulpturen. Im selben Haus: Eisbach Treasures. Preis noch prüfen.\nQuelle: https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte
 URL:https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte
 END:VEVENT
 BEGIN:VEVENT
 UID:vernissage-air-conditioned-2026@jannik-events
-DTSTAMP:20261004T194500Z
+DTSTAMP:20261004T202800Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 TRANSP:TRANSPARENT
@@ -261,65 +305,5 @@ SUMMARY:Vernissage „Air Conditioned“ – Architekturmuseum der TUM
 LOCATION:Rotunde, Pinakothek der Moderne, Barer Straße 40, 80333 München
 DESCRIPTION:Uhrzeit: 18–21 Uhr. Öffentliche Veranstaltung. Architektur zwischen Behaglichkeit und Klimawandel.\nQuelle: https://www.tum.de/en/news-and-events/events/details/vernissage-air-conditioned
 URL:https://www.tum.de/en/news-and-events/events/details/vernissage-air-conditioned
-END:VEVENT
-BEGIN:VEVENT
-UID:tickets-01099-heimspiel-2027@jannik-events
-DTSTAMP:20261004T194000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-TRANSP:TRANSPARENT
-SUMMARY:🎟️ TICKETS KAUFEN – 01099 Heimspiel Dresden (17.07.2027)
-DESCRIPTION:Einziges 01099-Konzert 2027, Stadionshow – kann ausverkaufen. Jetzt Tickets sichern (Eventim/offizielle Seite), ggf. Paket mit Übernachtung über dresden.de.\nQuelle: https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dresden.php
-URL:https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dresden.php
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🎟️ TICKETS KAUFEN – 01099 Heimspiel Dresden (17.07.2027)
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tickets-southside-2027@jannik-events
-DTSTAMP:20261004T194000Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-TRANSP:TRANSPARENT
-SUMMARY:🎟️ TICKETS KAUFEN – Southside 2027
-DESCRIPTION:Phase 1 ist ausverkauft, Phase 2 aktuell ca. 189 € – mit jeder Phase wird es teurer. Mit der Gruppe absprechen und zusammen buchen.\nQuelle: https://www.southside.de
-URL:https://www.southside.de
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🎟️ TICKETS KAUFEN – Southside 2027
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tickets-lange-nacht-2026@jannik-events
-DTSTAMP:20261004T194000Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-TRANSP:TRANSPARENT
-SUMMARY:🎟️ TICKETS KAUFEN – Lange Nacht der Museen (17.10.)
-DESCRIPTION:20 € + Gebühr bei München Ticket, gilt auch als Shuttle-Ticket. Keine Studi-Ermäßigung.\nQuelle: https://muenchner.de/museumsnacht/en/
-URL:https://muenchner.de/museumsnacht/en/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🎟️ TICKETS KAUFEN – Lange Nacht der Museen (17.10.)
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tickets-oben-ohne-2027@jannik-events
-DTSTAMP:20261004T194000Z
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270302
-TRANSP:TRANSPARENT
-SUMMARY:⚠️ NICHT FINAL – 🎟️ Vorverkauf Oben Ohne 2027 prüfen
-DESCRIPTION:Vorverkaufsstart 2027 noch nicht bekannt (2026: ca. 17,50 €). Tickets sind günstig und schnell weg – Platzhalter, wird angepasst, sobald der VVK-Start feststeht.\nQuelle: https://www.muenchen.de/veranstaltungen/feste-festivals/konzerte/oben-ohne-open-air
-URL:https://www.muenchen.de/veranstaltungen/feste-festivals/konzerte/oben-ohne-open-air
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚠️ NICHT FINAL – 🎟️ Vorverkauf Oben Ohne 2027 prüfen
-TRIGGER:PT9H
-END:VALARM
 END:VEVENT
 END:VCALENDAR
