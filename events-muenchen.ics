@@ -256,4 +256,64 @@ LOCATION:Rotunde, Pinakothek der Moderne, Barer Straße 40, 80333 München
 DESCRIPTION:Uhrzeit: 18–21 Uhr. Öffentliche Veranstaltung. Architektur zwischen Behaglichkeit und Klimawandel.\nQuelle: https://www.tum.de/en/news-and-events/events/details/vernissage-air-conditioned
 URL:https://www.tum.de/en/news-and-events/events/details/vernissage-air-conditioned
 END:VEVENT
+BEGIN:VEVENT
+UID:tickets-01099-heimspiel-2027@jannik-events
+DTSTAMP:20261004T194000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:🎟️ TICKETS KAUFEN – 01099 Heimspiel Dresden (17.07.2027)
+DESCRIPTION:Einziges 01099-Konzert 2027, Stadionshow – kann ausverkaufen. Jetzt Tickets sichern (Eventim/offizielle Seite), ggf. Paket mit Übernachtung über dresden.de.\nQuelle: https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dresden.php
+URL:https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dresden.php
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎟️ TICKETS KAUFEN – 01099 Heimspiel Dresden (17.07.2027)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tickets-southside-2027@jannik-events
+DTSTAMP:20261004T194000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:🎟️ TICKETS KAUFEN – Southside 2027
+DESCRIPTION:Phase 1 ist ausverkauft, Phase 2 aktuell ca. 189 € – mit jeder Phase wird es teurer. Mit der Gruppe absprechen und zusammen buchen.\nQuelle: https://www.southside.de
+URL:https://www.southside.de
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎟️ TICKETS KAUFEN – Southside 2027
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tickets-lange-nacht-2026@jannik-events
+DTSTAMP:20261004T194000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:🎟️ TICKETS KAUFEN – Lange Nacht der Museen (17.10.)
+DESCRIPTION:20 € + Gebühr bei München Ticket, gilt auch als Shuttle-Ticket. Keine Studi-Ermäßigung.\nQuelle: https://muenchner.de/museumsnacht/en/
+URL:https://muenchner.de/museumsnacht/en/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎟️ TICKETS KAUFEN – Lange Nacht der Museen (17.10.)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tickets-oben-ohne-2027@jannik-events
+DTSTAMP:20261004T194000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – 🎟️ Vorverkauf Oben Ohne 2027 prüfen
+DESCRIPTION:Vorverkaufsstart 2027 noch nicht bekannt (2026: ca. 17,50 €). Tickets sind günstig und schnell weg – Platzhalter, wird angepasst, sobald der VVK-Start feststeht.\nQuelle: https://www.muenchen.de/veranstaltungen/feste-festivals/konzerte/oben-ohne-open-air
+URL:https://www.muenchen.de/veranstaltungen/feste-festivals/konzerte/oben-ohne-open-air
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚠️ NICHT FINAL – 🎟️ Vorverkauf Oben Ohne 2027 prüfen
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
 END:VCALENDAR
