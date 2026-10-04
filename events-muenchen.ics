@@ -124,4 +124,81 @@ SUMMARY:Wiesn 2027
 LOCATION:Theresienwiese, München
 DESCRIPTION:Jahres-Fixpunkt. Anstich am ersten Samstag um 12 Uhr im Schottenhamel. Termin noch nicht offiziell von der Stadt bestätigt.
 END:VEVENT
+BEGIN:VEVENT
+UID:krims-krams-bahnwaerter-2026-10@jannik-events
+DTSTAMP:20261004T193000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+TRANSP:TRANSPARENT
+SUMMARY:Krims & Krams Flohmarkt @ Bahnwärter Thiel
+LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
+DESCRIPTION:Uhrzeit: 13–18 Uhr. Eintritt 3,50 €. Mode, Kunst, Kuriositäten, DJs und Food.\nQuelle: https://www.in-muenchen.de/events/krims-krams.html
+URL:https://www.in-muenchen.de/events/krims-krams.html
+END:VEVENT
+BEGIN:VEVENT
+UID:comedy-entgleist-2026-10@jannik-events
+DTSTAMP:20261004T193000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Stand-up Comedy „Entgleist!“ @ Bahnwärter Thiel
+LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
+DESCRIPTION:Uhrzeit: 19 Uhr. Eintritt frei, 4 Comedians. Achtung: gleicher Tag wie der Uniparty-Platzhalter.\nQuelle: https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
+URL:https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
+END:VEVENT
+BEGIN:VEVENT
+UID:comedy-entgleist-2026-11@jannik-events
+DTSTAMP:20261004T193000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Stand-up Comedy „Entgleist!“ @ Bahnwärter Thiel
+LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
+DESCRIPTION:Uhrzeit: 19 Uhr. Eintritt frei, 4 Comedians.\nQuelle: https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
+URL:https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
+END:VEVENT
+BEGIN:VEVENT
+UID:comedy-entgleist-2026-12@jannik-events
+DTSTAMP:20261004T193000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
+SUMMARY:Stand-up Comedy „Entgleist!“ @ Bahnwärter Thiel
+LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
+DESCRIPTION:Uhrzeit: 19 Uhr. Eintritt frei, 4 Comedians.\nQuelle: https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
+URL:https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb-arsenal-cl-2026@jannik-events
+DTSTAMP:20261004T193000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:FC Bayern – Arsenal (Champions League)
+LOCATION:Allianz Arena, München
+DESCRIPTION:Anstoß: 21 Uhr. Ligaphase, 3. Spieltag. Tickets über FC-Bayern-Losverfahren/Zweitmarkt, sonst mit der Gruppe in einer Bar schauen.\nQuelle: https://fcbayern.com/de/news/2026/08/spiele-des-fc-bayern-in-der-champions-league-ligaphase-terminiert
+URL:https://fcbayern.com/de/news/2026/08/spiele-des-fc-bayern-in-der-champions-league-ligaphase-terminiert
+END:VEVENT
+BEGIN:VEVENT
+UID:som-art-architekturgalerie-2026@jannik-events
+DTSTAMP:20261004T193000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+SUMMARY:Ausstellung „SOM+Art“ – Architekturgalerie München
+LOCATION:Architekturgalerie München, Türkenstr. 30, 80333 München
+DESCRIPTION:Läuft bis 15.11. Öffnungszeiten Mo–Fr 9–19, Sa 9–18 Uhr. Kunst, Architektur und Ingenieurbau. Eintritt vermutlich frei (nicht bestätigt). Nah an Theologicum/Philologicum.\nQuelle: https://www.architecture-exhibitions.com/en/exhibitions?city=17
+URL:https://www.architecture-exhibitions.com/en/exhibitions?city=17
+END:VEVENT
+BEGIN:VEVENT
+UID:mondscheinexpress-2026@jannik-events
+DTSTAMP:20261004T193000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261224
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Mondscheinexpress Winterfestival @ Bahnwärter Thiel
+LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
+DESCRIPTION:Termin 2026 noch nicht veröffentlicht – Platzhalter nach 2025 (20.11.–23.12.). Eintritt frei. Offene Ateliers, Markt, Foodtrucks, DJs/Bands. 2025: Mo–Fr 17–22, Sa/So 13–22 Uhr.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
+URL:https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
+END:VEVENT
 END:VCALENDAR
