@@ -201,4 +201,59 @@ LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
 DESCRIPTION:Termin 2026 noch nicht veröffentlicht – Platzhalter nach 2025 (20.11.–23.12.). Eintritt frei. Offene Ateliers, Markt, Foodtrucks, DJs/Bands. 2025: Mo–Fr 17–22, Sa/So 13–22 Uhr.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
 URL:https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/mondscheinexpress
 END:VEVENT
+BEGIN:VEVENT
+UID:koletzki-bahnwaerter-2026-10@jannik-events
+DTSTAMP:20261004T194500Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+TRANSP:TRANSPARENT
+SUMMARY:❔ EVENTUELL – Oliver Koletzki @ Bahnwärter Thiel
+LOCATION:Bahnwärter Thiel, Tumblingerstraße 45, 80337 München
+DESCRIPTION:Uhrzeit: ab 22 Uhr. Melodischer Techno. Preis noch prüfen.\nQuelle: https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
+URL:https://www.regioactive.de/location/muenchen/bahnwaerter-thiel-2sbgXvr7qb
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-moderna-kunsthalle-2026@jannik-events
+DTSTAMP:20261004T194500Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20270222
+TRANSP:TRANSPARENT
+SUMMARY:❔ EVENTUELL – Barcelona moderna (Kunsthalle)
+LOCATION:Kunsthalle München, Theatinerstraße 8, 80333 München
+DESCRIPTION:Läuft 23.10.2026–21.02.2027. Von Gaudí bis Picasso: ca. 140 Gemälde, Grafiken, Möbel und Architekturmodelle. Preis noch prüfen.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna
+URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelona-moderna
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb-bvb-klassiker-2026@jannik-events
+DTSTAMP:20261004T194500Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – FC Bayern – Borussia Dortmund (Klassiker)
+LOCATION:Allianz Arena, München
+DESCRIPTION:Bundesliga, 8. Spieltag. Wochenende 30.10.–01.11.2026, genaue Anstoßzeit von der DFL noch nicht festgelegt (Platzhalter Sa 31.10., vermutlich 18:30 Uhr).\nQuelle: https://anstosszeiten.de/bundesliga/spieltag-8/
+URL:https://anstosszeiten.de/bundesliga/spieltag-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:saraceno-hausderkunst-2026@jannik-events
+DTSTAMP:20261004T194500Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20270208
+TRANSP:TRANSPARENT
+SUMMARY:Tomás Saraceno – Ancestral Futures (Haus der Kunst)
+LOCATION:Haus der Kunst, Prinzregentenstraße 1, 80538 München
+DESCRIPTION:Läuft bis 07.02.2027. Kunst, Architektur und Wissenschaft – begehbare Luftskulpturen. Im selben Haus: Eisbach Treasures. Preis noch prüfen.\nQuelle: https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte
+URL:https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte
+END:VEVENT
+BEGIN:VEVENT
+UID:vernissage-air-conditioned-2026@jannik-events
+DTSTAMP:20261004T194500Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Vernissage „Air Conditioned“ – Architekturmuseum der TUM
+LOCATION:Rotunde, Pinakothek der Moderne, Barer Straße 40, 80333 München
+DESCRIPTION:Uhrzeit: 18–21 Uhr. Öffentliche Veranstaltung. Architektur zwischen Behaglichkeit und Klimawandel.\nQuelle: https://www.tum.de/en/news-and-events/events/details/vernissage-air-conditioned
+URL:https://www.tum.de/en/news-and-events/events/details/vernissage-air-conditioned
+END:VEVENT
 END:VCALENDAR
