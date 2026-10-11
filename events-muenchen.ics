@@ -49,15 +49,15 @@ URL:https://www.muenchen.de/veranstaltungen/freizeit/kunst-sendling
 END:VEVENT
 BEGIN:VEVENT
 UID:meine-erste-uniparty-2026@jannik-events
-DTSTAMP:20261004T202800Z
+DTSTAMP:20261011T080000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-SUMMARY:⚠️ NICHT FINAL – Meine erste Uniparty (Datum unbestätigt)
+SUMMARY:Meine erste Uniparty (TUM)
 LOCATION:TUM Stammgelände, Arcisstraße 21, 80333 München
-DESCRIPTION:Uhrzeit: ca. 20–4 Uhr. Semesterauftaktparty in der ersten Vorlesungswoche. Datum 2026 noch nicht offiziell – Platzhalter, wird aktualisiert.\nQuelle: https://sv.tum.de/en/sv/what-we-do/events/semester-opening-party/
-URL:https://sv.tum.de/en/sv/what-we-do/events/semester-opening-party/
+DESCRIPTION:Do 15.10.2026\, ab 20 Uhr bis ca. 4 Uhr. Semesterauftaktparty der Studentischen Vertretung TUM auf dem Stammgelände (Eingang Arcisstraße 21)\, mehrere Floors. Preis (Vorjahr): VVK ca. 6 € (max. 5 Tickets p. P.)\, Abendkasse ca. 8 € (nur bar)\, ab 18. Datum offiziell bestätigt.\nQuelle: https://www.sv.tum.de/en/sv/what-we-do/events/meine-erste-uniparty-meup/
+URL:https://www.sv.tum.de/en/sv/what-we-do/events/meine-erste-uniparty-meup/
 END:VEVENT
 BEGIN:VEVENT
 UID:lange-nacht-museen-2026@jannik-events
@@ -112,7 +112,7 @@ DTEND;VALUE=DATE:20270718
 TRANSP:TRANSPARENT
 SUMMARY:01099 – HEIMSPIEL Dresden
 LOCATION:Rudolf-Harbig-Stadion, Dresden
-DESCRIPTION:Einziges 01099-Konzert 2027, Stadionshow in Dresden. Uhrzeit noch nicht bekannt. Tickets/Anreise rechtzeitig planen.\nQuelle: https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dresden.php
+DESCRIPTION:Einziges 01099-Konzert 2027, Stadionshow im Rudolf-Harbig-Stadion Dresden. Beginn 19 Uhr (laut Eventim\, Einlass noch offen). Tickets 39\,99–99\,99 € (Stehplatz Innenraum 69\,99 €). Tickets/Anreise rechtzeitig planen.\nQuelle: https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dresden.php
 URL:https://www.dresden.de/de/tourismus/buchen/topangebote/heimspiel-2027-in-dresden.php
 END:VEVENT
 BEGIN:VEVENT
@@ -263,14 +263,14 @@ URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellung-museen/barcelon
 END:VEVENT
 BEGIN:VEVENT
 UID:fcb-bvb-klassiker-2026@jannik-events
-DTSTAMP:20261004T202800Z
+DTSTAMP:20261011T080000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 TRANSP:TRANSPARENT
-SUMMARY:⚠️ NICHT FINAL – FC Bayern – Borussia Dortmund (Klassiker)
+SUMMARY:FC Bayern – Borussia Dortmund (Klassiker)
 LOCATION:Allianz Arena, München
-DESCRIPTION:Bundesliga, 8. Spieltag. Wochenende 30.10.–01.11.2026, genaue Anstoßzeit von der DFL noch nicht festgelegt (Platzhalter Sa 31.10., vermutlich 18:30 Uhr).\nQuelle: https://anstosszeiten.de/bundesliga/spieltag-8/
-URL:https://anstosszeiten.de/bundesliga/spieltag-8/
+DESCRIPTION:Sa 31.10.2026\, Anstoß 18:30 Uhr (von der DFL angesetzt). Bundesliga\, 8. Spieltag\, Topspiel am Samstagabend. Tickets nur über Bayern-Ticketbörse/Zweitmarkt – sonst Public Viewing.\nQuelle: https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-am-samstagabend\,bundesliga-ansetzungen-100.html
+URL:https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-am-samstagabend,bundesliga-ansetzungen-100.html
 END:VEVENT
 BEGIN:VEVENT
 UID:saraceno-hausderkunst-2026@jannik-events
