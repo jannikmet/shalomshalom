@@ -306,4 +306,16 @@ LOCATION:Rotunde, Pinakothek der Moderne, Barer Straße 40, 80333 München
 DESCRIPTION:Uhrzeit: 18–21 Uhr. Öffentliche Veranstaltung. Architektur zwischen Behaglichkeit und Klimawandel.\nQuelle: https://www.tum.de/en/news-and-events/events/details/vernissage-air-conditioned
 URL:https://www.tum.de/en/news-and-events/events/details/vernissage-air-conditioned
 END:VEVENT
+BEGIN:VEVENT
+UID:haus-der-kunst-open-haus@jannik-events
+DTSTAMP:20261011T090000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+RRULE:FREQ=MONTHLY;BYDAY=-1FR
+TRANSP:TRANSPARENT
+SUMMARY:Haus der Kunst – Open Haus (Eintritt frei)
+LOCATION:Haus der Kunst\, Prinzregentenstraße 1\, 80538 München
+DESCRIPTION:Jeden letzten Freitag im Monat 16–22 Uhr freier Eintritt in die Ausstellungen (u. a. Tomás Saraceno bis 07.02.2027). Sonst Studi-Ticket 5 €. An Feiertagen (z. B. 25.12.) vorher Öffnung prüfen.\nQuelle: https://www.muenchen.de/sehenswuerdigkeiten/museen/haus-der-kunst
+URL:https://www.muenchen.de/sehenswuerdigkeiten/museen/haus-der-kunst
+END:VEVENT
 END:VCALENDAR
