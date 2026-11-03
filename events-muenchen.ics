@@ -330,4 +330,273 @@ LOCATION:Pinakothek der Moderne, Barer Straße 40, 80333 München
 DESCRIPTION:Läuft bis 29.11.2026; im Kalender nur einmal pro Wochenende (samstags) eingetragen. 71 Abschlussprojekte von 28 Hochschulen. Eintritt 10 € / 7 € ermäßigt\, sonntags 1 € (Tipp: Sonntag statt Samstag). Am 21.11. nur bis 13 Uhr geöffnet.\nQuelle: https://www.in-muenchen.de/?p=1105755
 URL:https://www.in-muenchen.de/?p=1105755
 END:VEVENT
+BEGIN:VEVENT
+UID:schoenheit-der-technik-2026@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+SUMMARY:„Schönheit der Technik“ – Die Neue Sammlung (Pinakothek der Moderne)
+LOCATION:Pinakothek der Moderne\, Barer Straße 40\, 80333 München
+DESCRIPTION:Wochenende 21./22.11. (Wunsch). Neue Dauerausstellung „Schönheit der Technik / The Aesthetics of Technology“ (ab 12.11.2026) – Design\, Technik\, KI. 10 € / 7 € ermäßigt\, sonntags 1 € → am besten Sonntag 22.11. Kombinierbar mit „Robotic Worlds“ und „German Design Graduates“ (Design Graduates am Sa 21.11. nur bis 13 Uhr).\nQuelle: https://www.pinakothek-der-moderne.de/en/exhibitions/schoenheit-der-technik/
+URL:https://www.pinakothek-der-moderne.de/en/exhibitions/schoenheit-der-technik/
+END:VEVENT
+BEGIN:VEVENT
+UID:robotic-worlds-neue-sammlung@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+RRULE:FREQ=WEEKLY;BYDAY=SA;COUNT=2
+TRANSP:TRANSPARENT
+SUMMARY:„Robotic Worlds“ – Die Neue Sammlung (Pinakothek der Moderne)
+LOCATION:Pinakothek der Moderne\, Barer Straße 40\, 80333 München
+DESCRIPTION:Läuft 28.11.2025–28.11.2027; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). 10 € / 7 € ermäßigt\, sonntags 1 €.\nQuelle: https://www.pinakothek-der-moderne.de/en/upcoming-exhibitions
+URL:https://www.pinakothek-der-moderne.de/en/upcoming-exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:robotic-worlds-neue-sammlung-letzte-chance@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+TRANSP:TRANSPARENT
+SUMMARY:⏳ LETZTE CHANCE – „Robotic Worlds“ – Die Neue Sammlung (Pinakothek der Moderne)
+LOCATION:Pinakothek der Moderne\, Barer Straße 40\, 80333 München
+DESCRIPTION:Läuft 28.11.2025–28.11.2027; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). 10 € / 7 € ermäßigt\, sonntags 1 €.\nQuelle: https://www.pinakothek-der-moderne.de/en/upcoming-exhibitions
+URL:https://www.pinakothek-der-moderne.de/en/upcoming-exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:what-the-city-stadtmuseum@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+RRULE:FREQ=WEEKLY;BYDAY=SA;COUNT=2
+TRANSP:TRANSPARENT
+SUMMARY:„What the City. Perspektiven unserer Stadt“ – Münchner Stadtmuseum
+LOCATION:Münchner Stadtmuseum (Zeughaus)\, St.-Jakobs-Platz 1\, 80331 München
+DESCRIPTION:Läuft 01.11.2026 bis „Mitte 2027“ (genaues Ende offen); im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“\, Platzhalter). Eintritt frei.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
+URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
+END:VEVENT
+BEGIN:VEVENT
+UID:what-the-city-stadtmuseum-letzte-chance@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – ⏳ LETZTE CHANCE – „What the City“ – Münchner Stadtmuseum
+LOCATION:Münchner Stadtmuseum (Zeughaus)\, St.-Jakobs-Platz 1\, 80331 München
+DESCRIPTION:Läuft 01.11.2026 bis „Mitte 2027“ (genaues Ende offen); im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“\, Platzhalter). Eintritt frei. Enddatum noch nicht veröffentlicht – Platzhalter.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
+URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
+END:VEVENT
+BEGIN:VEVENT
+UID:dfb-niederlande-2026-11@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Deutschland – Niederlande (Nations League, TV)
+LOCATION:Berlin (TV: ARD) – Bar/Public Viewing in München
+DESCRIPTION:Anstoß 20:45 Uhr. Spiel in Berlin\, live in der ARD.\nQuelle: https://www.dfb.de
+URL:https://www.dfb.de
+END:VEVENT
+BEGIN:VEVENT
+UID:lena-linus-ampere-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+TRANSP:TRANSPARENT
+SUMMARY:❔ EVENTUELL – Lena&Linus – „Wo führt das hin?“ (Ampere)
+LOCATION:Ampere/Muffatwerk\, Zellstraße 4\, 81667 München
+DESCRIPTION:Beginn 20 Uhr. Deutscher Indie-Pop. Tickets via Reservix/Eventim\, Preis noch offen.\nQuelle: https://www.in-muenchen.de/events/lenalinus-wo-fuhrt-das-hin.html
+URL:https://www.in-muenchen.de/events/lenalinus-wo-fuhrt-das-hin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sound-of-munich-now-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Sound of Munich Now 2027 (Feierwerk)
+LOCATION:Feierwerk\, Hansastraße 39–41\, 81373 München
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht – Platzhalter nach 2026 (Sa 14.03.). Showcase der Münchner Musikszene\, Pay what you can.\nQuelle: https://www.feierwerk.de
+URL:https://www.feierwerk.de
+END:VEVENT
+BEGIN:VEVENT
+UID:stroke-art-fair-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:STROKE Art Fair 2027
+LOCATION:Praterinsel 3–4\, 80538 München
+DESCRIPTION:Fr–So 19.–21.03.2027. Urban & Contemporary Art. Tickets nur an der Tageskasse (bar/PayPal)\, Preis noch offen.\nQuelle: https://www.in-muenchen.de/events/stroke-art-fair.html
+URL:https://www.in-muenchen.de/events/stroke-art-fair.html
+END:VEVENT
+BEGIN:VEVENT
+UID:brk-riesenflohmarkt-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – BRK-Riesenflohmarkt Theresienwiese
+LOCATION:Theresienwiese\, München
+DESCRIPTION:Vermutlich Sa 17.04.2027\, 7–16 Uhr (Quelle uneinheitlich). Eintritt frei.\nQuelle: https://www.in-muenchen.de/events/brk-flohmarkt-theresienwiese.html
+URL:https://www.in-muenchen.de/events/brk-flohmarkt-theresienwiese.html
+END:VEVENT
+BEGIN:VEVENT
+UID:corso-leopold-2027-05@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+SUMMARY:Corso Leopold (Frühjahr)
+LOCATION:Leopoldstraße (Siegestor bis Münchner Freiheit)\, München
+DESCRIPTION:Sa/So 08.–09.05.2027. Autofreies Kultur-Straßenfest mit Bühnen\, Kunst\, Food. Eintritt frei.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/corso-leopold
+URL:https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/corso-leopold
+END:VEVENT
+BEGIN:VEVENT
+UID:lange-nacht-der-musik-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Lange Nacht der Musik 2027
+LOCATION:Diverse Locations\, München
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht – Platzhalter (2026: Sa 09.05.). Ein Ticket für alle Konzerte\, ca. 20 €.\nQuelle: https://www.muenchen.de/veranstaltungen/konzerte/lange-nacht-der-musik
+URL:https://www.muenchen.de/veranstaltungen/konzerte/lange-nacht-der-musik
+END:VEVENT
+BEGIN:VEVENT
+UID:mcbw-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+SUMMARY:MCBW – Munich Creative Business Week 2027
+LOCATION:Diverse Orte\, München
+DESCRIPTION:10.–16.05.2027. Design-Woche\, viele Ausstellungen und Open Studios gratis.\nQuelle: https://mcbw.de
+URL:https://mcbw.de
+END:VEVENT
+BEGIN:VEVENT
+UID:theatron-pfingsten-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270518
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Theatron Pfingstfestival 2027 (Seebühne Olympiapark)
+LOCATION:Theatron\, Seebühne Olympiapark\, München
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht – Platzhalter Pfingstwochenende (Pfingsten 16.05.2027). Open-Air-Konzerte\, Eintritt frei.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/theatron-pfingstfestival
+URL:https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/theatron-pfingstfestival
+END:VEVENT
+BEGIN:VEVENT
+UID:tollwood-sommer-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+RRULE:FREQ=WEEKLY;BYDAY=SA;COUNT=2
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Tollwood Sommerfestival 2027
+LOCATION:Olympiapark Süd\, München
+DESCRIPTION:Laut festivalhopper 18.06.–18.07.2027 (offiziell noch ungeprüft); im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Gelände frei.\nQuelle: https://www.festivalhopper.de/festival/tollwood-sommerfestival-2027
+URL:https://www.festivalhopper.de/festival/tollwood-sommerfestival-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:tollwood-sommer-2027-letzte-chance@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – ⏳ LETZTE CHANCE – Tollwood Sommerfestival 2027
+LOCATION:Olympiapark Süd\, München
+DESCRIPTION:Laut festivalhopper 18.06.–18.07.2027 (offiziell noch ungeprüft); im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Gelände frei.\nQuelle: https://www.festivalhopper.de/festival/tollwood-sommerfestival-2027
+URL:https://www.festivalhopper.de/festival/tollwood-sommerfestival-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:zamanand-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270621
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Zamanand Festival 2027 (Ludwigstraße)
+LOCATION:Ludwigstraße\, München
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht (muenchen.de: „wird noch bekannt gegeben“) – Platzhalter. Straßenfestival\, Eintritt frei.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/zamanand-festival
+URL:https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/zamanand-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:architektouren-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270628
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Architektouren 2027
+LOCATION:Diverse Bauten\, München und Oberbayern
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht – Platzhalter (letztes Juni-Wochenende). Kostenlose Führungen durch neue Architektur.\nQuelle: https://www.byak.de
+URL:https://www.byak.de
+END:VEVENT
+BEGIN:VEVENT
+UID:tunix-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – TUNIX Open Air 2027 (Königsplatz)
+LOCATION:Königsplatz\, München
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht – Platzhalter nach 2026 (29.06.–03.07.). Studentisches Open Air\, Eintritt frei.\nQuelle: https://www.tunix-festival.de
+URL:https://www.tunix-festival.de
+END:VEVENT
+BEGIN:VEVENT
+UID:adbk-jahresausstellung-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20270724
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Jahresausstellung Akademie der Bildenden Künste 2027
+LOCATION:Akademie der Bildenden Künste\, Akademiestraße 2–4\, 80799 München
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht – Platzhalter nach 2026 (18.–26.07.); im Kalender nur einmal pro Wochenende (samstags) eingetragen. Eintritt frei\, alle Klassen stellen aus\, abends Partystimmung.\nQuelle: https://www.adbk.de
+URL:https://www.adbk.de
+END:VEVENT
+BEGIN:VEVENT
+UID:sonnenfinsternis-2027-08-02@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+TRANSP:TRANSPARENT
+SUMMARY:Partielle Sonnenfinsternis (~50 %)
+LOCATION:z. B. Olympiaberg\, München
+DESCRIPTION:10:08–12:16 Uhr\, Maximum 11:11 Uhr\, in München ca. 50 % bedeckt. Nur mit Sonnenfinsternis-Brille schauen!\nQuelle: https://www.netzwelt.de/news/259918-laengste-sonnenfinsternis-2027-deutschland-davon-seht-tag-wirklich-nacht.html
+URL:https://www.netzwelt.de/news/259918-laengste-sonnenfinsternis-2027-deutschland-davon-seht-tag-wirklich-nacht.html
+END:VEVENT
+BEGIN:VEVENT
+UID:theatron-musiksommer-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20270821
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Theatron MusikSommer 2027 (Seebühne Olympiapark)
+LOCATION:Theatron\, Seebühne Olympiapark\, München
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht („Sommer 2027“) – Platzhalter August; im Kalender nur einmal pro Wochenende (samstags) eingetragen. Gratis Open-Air-Konzerte.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/theatron-musiksommer-2027
+URL:https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/theatron-musiksommer-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:ois-giasing-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+TRANSP:TRANSPARENT
+SUMMARY:⚠️ NICHT FINAL – Ois Giasing 2027
+LOCATION:Giesing\, München
+DESCRIPTION:Termin 2027 noch nicht veröffentlicht (September) – Platzhalter. Stadtteilfest mit Bars\, Höfen\, DJs\, Kunst. Eintritt frei.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/ois-giasing
+URL:https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/ois-giasing
+END:VEVENT
+BEGIN:VEVENT
+UID:provinz-olympiahalle-2027@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+TRANSP:TRANSPARENT
+SUMMARY:❔ EVENTUELL – Provinz – Cry Baby Cry Tour (Olympiahalle)
+LOCATION:Olympiahalle\, Spiridon-Louis-Ring 21\, 80809 München
+DESCRIPTION:Beginn 20 Uhr. Ab ca. 61 € (München Ticket/Eventim)\, hohe Nachfrage.\nQuelle: https://www.in-muenchen.de/?p=1091942
+URL:https://www.in-muenchen.de/?p=1091942
+END:VEVENT
 END:VCALENDAR
