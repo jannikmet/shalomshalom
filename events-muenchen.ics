@@ -318,4 +318,16 @@ LOCATION:Haus der Kunst\, Prinzregentenstraße 1\, 80538 München
 DESCRIPTION:Jeden letzten Freitag im Monat 16–22 Uhr freier Eintritt in die Ausstellungen (u. a. Tomás Saraceno bis 07.02.2027). Sonst Studi-Ticket 5 €. An Feiertagen (z. B. 25.12.) vorher Öffnung prüfen.\nQuelle: https://www.muenchen.de/sehenswuerdigkeiten/museen/haus-der-kunst
 URL:https://www.muenchen.de/sehenswuerdigkeiten/museen/haus-der-kunst
 END:VEVENT
+BEGIN:VEVENT
+UID:german-design-graduates-2026@jannik-events
+DTSTAMP:20261103T120000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261128
+TRANSP:TRANSPARENT
+SUMMARY:„Make It Make Sense“ – German Design Graduates 2026 (Pinakothek der Moderne)
+LOCATION:Pinakothek der Moderne, Barer Straße 40, 80333 München
+DESCRIPTION:Läuft bis 29.11.2026; im Kalender nur einmal pro Wochenende (samstags) eingetragen. 71 Abschlussprojekte von 28 Hochschulen. Eintritt 10 € / 7 € ermäßigt\, sonntags 1 € (Tipp: Sonntag statt Samstag). Am 21.11. nur bis 13 Uhr geöffnet.\nQuelle: https://www.in-muenchen.de/?p=1105755
+URL:https://www.in-muenchen.de/?p=1105755
+END:VEVENT
 END:VCALENDAR
