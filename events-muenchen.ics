@@ -373,18 +373,18 @@ RRULE:FREQ=WEEKLY;BYDAY=SA;COUNT=2
 TRANSP:TRANSPARENT
 SUMMARY:„What the City. Perspektiven unserer Stadt“ – Münchner Stadtmuseum
 LOCATION:Münchner Stadtmuseum (Zeughaus)\, St.-Jakobs-Platz 1\, 80331 München
-DESCRIPTION:Läuft 01.11.2026 bis „Mitte 2027“ (genaues Ende offen); im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“\, Platzhalter). Eintritt frei.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
+DESCRIPTION:Läuft 01.11.2026–18.04.2027; im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Eintritt frei.\nQuelle: https://www.muenchner-stadtmuseum.de/en/program/what-the-city-perspectives-of-munich ·  https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
 URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
 END:VEVENT
 BEGIN:VEVENT
 UID:what-the-city-stadtmuseum-letzte-chance@jannik-events
 DTSTAMP:20261103T120000Z
-DTSTART;VALUE=DATE:20270626
-DTEND;VALUE=DATE:20270627
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
 TRANSP:TRANSPARENT
-SUMMARY:⚠️ NICHT FINAL – ⏳ LETZTE CHANCE – „What the City“ – Münchner Stadtmuseum
+SUMMARY:⏳ LETZTE CHANCE – „What the City“ – Münchner Stadtmuseum
 LOCATION:Münchner Stadtmuseum (Zeughaus)\, St.-Jakobs-Platz 1\, 80331 München
-DESCRIPTION:Läuft 01.11.2026 bis „Mitte 2027“ (genaues Ende offen); im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“\, Platzhalter). Eintritt frei. Enddatum noch nicht veröffentlicht – Platzhalter.\nQuelle: https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
+DESCRIPTION:Läuft 01.11.2026–18.04.2027 (Ende bestätigt); im Kalender an den ersten 2 Samstagen und am letzten Wochenende („Letzte Chance“). Eintritt frei.\nQuelle: https://www.muenchner-stadtmuseum.de/en/program/what-the-city-perspectives-of-munich ·  https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
 URL:https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/what-city-perspektiven-unserer-stadt-stadtmuseum
 END:VEVENT
 BEGIN:VEVENT
